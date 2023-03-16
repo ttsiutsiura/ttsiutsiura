@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirill Tsiutsiura
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React
 - 📫 How to reach me on Telegram: @ttsiutsiura
 
 <!---
